@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "nombre": "Morral Totto Mickey Graffiti Negro",
+    "precio": "113.900"
+  },
+  {
+    "id": 2,
+    "nombre": "Morral Ejecutivo Porta PC 16 Wivetto 2.0 Negro",
+    "precio": "159.900"
+  },
+  {
+    "id": 3,
+    "nombre": "Morral Mochila 3 en 1 Mujer Yuen Fashion",
+    "precio": "87.200"
+  },
+  {
+    "id": 4,
+    "nombre": "Mochila Morral Mediana Totto con Ruedas Renglón Gris",
+    "precio": "145.400"
+  },
+  {
+    "id": 5,
+    "nombre": "Morral Ejecutivo Porta PC 14 Pardillo 2.0 Gris/Negro",
+    "precio": "126.000"
+  },
+  {
+    "id": 6,
+    "nombre": "Morral Totto Mochila Porta PC 14 Hombre Wivetto",
+    "precio": "108.500"
+  },
+  {
+    "id": 7,
+    "nombre": "Bolso para Mujer 2 en 1 Funty 3.0 Café",
+    "precio": "119.900"
+  }
+]
