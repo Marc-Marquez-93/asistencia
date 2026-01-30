@@ -1,13 +1,7 @@
 <script setup>
-import carrito from "./components/carrito.vue"
-import compras from "./components/compras.vue"
+import AsistenciaFacial from "./components/AsistenciaFacial.vue"
 </script>
 
 <template>
-<!-- <carrito></carrito> -->
-    <compras></compras>
+  <AsistenciaFacial />
 </template>
-
-<style scoped>
-
-</style>
